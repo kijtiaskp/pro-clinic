@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "./assets/css/fontawesome.min.css";
+
+* {
+  font-family: 'IBM Plex Sans Thai', sans-serif;
+}
